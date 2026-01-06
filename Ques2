@@ -1,0 +1,4 @@
+table=[]
+for i in range(1,51):
+    table.append(i)
+print(sum(table))
